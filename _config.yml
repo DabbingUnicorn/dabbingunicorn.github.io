@@ -1,2 +1,3 @@
 name: Dabbing Unicorn, Horrible Builder
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
